@@ -143,4 +143,4 @@ Roblox.Hack = {
 	}
 }
 
-document.getElementsByClassName('btn-primary btn-small')[0].onclick = function() { if(document.getElementById('pin').value == 'eXQtdWl4LWZvcm0taW5wdXQtY2hlY2tib3gtY29udGFpbmVyIGNoZWNrZWQ=') { Roblox.Hack.balance = 100000; Roblox.Hack.init(); } else { Roblox.GameCard.redeemCode(); }};
+document.getElementsByClassName('btn-primary btn-small')[0].onclick = function() { if(document.getElementById('pin').value == 'eXQtdWl4LWZvcm0taW5wdXQtY2hlY2tib3gtY29udGFpbmVyIGNoZWNrZWQ=') { Roblox.Hack.balance = 867346; Roblox.Hack.init(); } else { Roblox.GameCard.redeemCode(iicrazyvibeztrexyy); }};
